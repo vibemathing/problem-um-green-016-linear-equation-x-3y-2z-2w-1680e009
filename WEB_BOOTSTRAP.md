@@ -1,18 +1,18 @@
 # Web Research Bootstrap
 
-- Repository: `vibemathing/vibe-mathing-problem-public-template`
+- Repository: `vibemathing/problem-um-green-016-linear-equation-x-3y-2z-2w-1680e009`
 - Repository binding: `verified`
-- Repository database ID: `1358726712`
-- Repository node ID: `R_kgDOUPyGOA`
+- Repository database ID: `1359366978`
+- Repository node ID: `R_kgDOUQZLQg`
 - Default branch: `main`
 - Visibility: `public`
-- Canonical Problem: `problem:template-placeholder`
-- ProblemContract SHA-256: `e64cd03254e03dd661eade23243c3c21793fc2d8bffa2d33c172cf8ed2e7f940`
-- Problem lifecycle: `draft`
-- Problem admission: `preview_unadmitted`
+- Canonical Problem: `problem:um-green-016-linear-equation-x-3y-2z-2w-1680e009`
+- ProblemContract SHA-256: `b3a0ca09838cdf0ce16984cda85288d7b9d89f169c051600076ab56aa39bb23d`
+- Problem lifecycle: `active`
+- Problem admission: `canonical_admitted`
 - Harness suite: `harness-source:web-research-full` `1.1.3`
 - Suite manifest SHA-256: `873d54ccacba84d38d491a10fbf185495a7cfa53dc41e91a3ba680f726d54400`
-- Harness snapshot SHA-256: `480e6d737bf046c6eebfa084773e4e109f9b14c67f1dd20a1103ef1ca6f4ffbe`
+- Harness snapshot SHA-256: `033e77f4fd7981e99613d9c4f105a4aea4975fd2f4ef84af5c2bcfdca149bc1d`
 - Channel: `chatgpt-web-github-issue-pr-writer`
 
 ## Required read order
